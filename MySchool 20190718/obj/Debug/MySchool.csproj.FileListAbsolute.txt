@@ -1,0 +1,14 @@
+D:\Dropbox\Mathimata\Individual Project Part_B\C sharp\MySchool 20190718\bin\Debug\MySchool 20190718.exe
+D:\Dropbox\Mathimata\Individual Project Part_B\C sharp\MySchool 20190718\bin\Debug\MySchool 20190718.exe.config
+D:\Dropbox\Mathimata\Individual Project Part_B\C sharp\MySchool 20190718\bin\Debug\MySchool 20190718.pdb
+D:\Dropbox\Mathimata\Individual Project Part_B\C sharp\MySchool 20190718\obj\Debug\MySchool.csproj.CoreCompileInputs.cache
+D:\Dropbox\Mathimata\Individual Project Part_B\C sharp\MySchool 20190718\obj\Debug\MySchool 20190718.exe
+D:\Dropbox\Mathimata\Individual Project Part_B\C sharp\MySchool 20190718\obj\Debug\MySchool 20190718.pdb
+D:\Dropbox\Mathimata\Individual Project Part_B\C sharp\MySchool 20190718\obj\Debug\MySchool.csprojAssemblyReference.cache
+C:\Users\Giger_PC\Desktop\Individual Project Part_B\C sharp\MySchool 20190718\bin\Debug\MySchool 20190718.exe.config
+C:\Users\Giger_PC\Desktop\Individual Project Part_B\C sharp\MySchool 20190718\bin\Debug\MySchool 20190718.exe
+C:\Users\Giger_PC\Desktop\Individual Project Part_B\C sharp\MySchool 20190718\bin\Debug\MySchool 20190718.pdb
+C:\Users\Giger_PC\Desktop\Individual Project Part_B\C sharp\MySchool 20190718\obj\Debug\MySchool.csprojAssemblyReference.cache
+C:\Users\Giger_PC\Desktop\Individual Project Part_B\C sharp\MySchool 20190718\obj\Debug\MySchool.csproj.CoreCompileInputs.cache
+C:\Users\Giger_PC\Desktop\Individual Project Part_B\C sharp\MySchool 20190718\obj\Debug\MySchool 20190718.exe
+C:\Users\Giger_PC\Desktop\Individual Project Part_B\C sharp\MySchool 20190718\obj\Debug\MySchool 20190718.pdb

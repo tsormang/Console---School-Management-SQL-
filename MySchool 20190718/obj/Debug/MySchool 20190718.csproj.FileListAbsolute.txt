@@ -1,0 +1,4 @@
+C:\Users\Giger_PC\source\repos\MySchool 20190718\MySchool 20190718\obj\Debug\MySchool 20190718.csproj.CoreCompileInputs.cache
+C:\Users\Giger_PC\source\repos\MySchool 20190718\MySchool 20190718\obj\Debug\MySchool 20190718.csprojAssemblyReference.cache
+D:\Dropbox\Mathimata\Individual Project Part_B\C sharp\MySchool 20190718\obj\Debug\MySchool 20190718.csprojAssemblyReference.cache
+D:\Dropbox\Mathimata\Individual Project Part_B\C sharp\MySchool 20190718\obj\Debug\MySchool 20190718.csproj.CoreCompileInputs.cache
